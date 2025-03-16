@@ -1,6 +1,6 @@
 # Rickshaw and Bike Detection
 
-1. This is a PyQt project. So, here we can input a video, then model can detect rickshaw and bike realtime. 
+1. This is a PyQt Application. So, here we can input a video, then my model can detect rickshaw and bike in realtime. 
 2. Dataset: I collected images of dhaka city traffic from google search.
 3. And then annotate with the bounding box using Labelme tool.
 4. I did augmentation for increase the number of image data. For data augmentation I used albumentations.
