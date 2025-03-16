@@ -11,11 +11,15 @@
 Overall accuracy of the model is 85.6%
 
 Precision: Bike = 80 %
-           Rickshaw = 85.5 % 
+
+           Rickshaw = 85.5 %
+           
            Background = 50 %
            
 Recall: Bike = 66.7 %
+
         Rickshaw = 89 %
+        
         Background = 61.5 %
 
 
