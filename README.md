@@ -2,7 +2,7 @@
 
 1. This is a PyQt Application. So, here we can input a video, then my model can detect rickshaw and bike in realtime. 
 2. Dataset: I collected images of dhaka city traffic from google search.
-3. And then annotate with the bounding box using Labelme tool.
+3. And then annotate images by draw bounding box using Labelme tool.
 4. I did augmentation for increase the number of image data. For data augmentation I used albumentations.
 5. For model, I have used here YOLO v8 model.
 
