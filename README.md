@@ -5,6 +5,7 @@
 3. And then annotate images by draw bounding box using Labelme tool.
 4. I did augmentation for increase the number of image data. For data augmentation I used albumentations.
 5. For model, I have used here YOLO v8 model.
+6. Using OpenCV for process video as model takes image frame as input.
 
 
 # Accuracy
